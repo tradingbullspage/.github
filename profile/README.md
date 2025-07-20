@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://tirangainvitecode.in/Jalwa" target="_blank" rel="noopener noreferrer">
+<a href="[https://tirangainvitecode.in/Jalwa](https://www.Jalwa.cc/#/register?invitationCode=485472965526)" target="_blank" rel="noopener noreferrer">
   <img src="https://i.imageupload.app/414b454e53f159bf85db.png" alt="Jalwa Game Register" width="100%" height="auto" style="margin: 15px;" />
 </a>
 
-<a href="https://tirangainvitecode.in/Jalwa" target="_blank" rel="noopener noreferrer">
+<a href="[https://tirangainvitecode.in/Jalwa](https://www.Jalwa.cc/#/register?invitationCode=485472965526)" target="_blank" rel="noopener noreferrer">
   <img src="https://i.imageupload.app/1661b8409a144a429a5f.png" alt="Jalwa Game Login" width="100%" height="auto" style="margin: 15px;" />
 </a>
 
@@ -18,8 +18,6 @@ Welcome to **Jalwa Game**, a quick-play browser game platform made for casual an
 
 ## 🔗 Quick Links
 
-### 👉 [Jalwa Game Login](https://tirangainvitecode.in/Jalwa)
-### 👉 [Jalwa Game Register](https://tirangainvitecode.in/Jalwa)
 
 ---
 
